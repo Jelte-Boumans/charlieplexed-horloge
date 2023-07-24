@@ -1,0 +1,12 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"20,25,1,55,0,50,5,35,45,40,8,11,7,3,10,30,12,6,4,2,5,10,9,15";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";24;"LED";;;
+2;"R4,R2,R3,R1";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";4;"120Ω";;;
+3;"U1";"SOIC-20W_7.5x12.8mm_P1.27mm";1;"ATtiny1616-S";;;
+4;"R6,R5,R8,R7";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";4;"150Ω";;;
+5;"R9";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"1kΩ";;;
+6;"J1";"PinSocket_1x03_P2.54mm_Vertical";1;"Conn_01x03_Female";;;
+7;"SW1";"SW_Push_1P1T_NO_6x6mm_H9.5mm";1;"SW_Push";;;
+8;"C3";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"100nF";;;
+9;"C2,C1";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";2;"1uF";;;
+10;"BTe";"S8421-45R_1";1;"Battery_Cell";;;
+11;"U2";"SOT-223-3_TabPin2";1;"AP7361C-33E";;;
